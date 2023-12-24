@@ -7,6 +7,6 @@ int sum = Integer.parseInt(args[0]);
 int quarters = sum / 25; // integer for number quarters
 int cents = sum % 25; // integer for remainder
 
-System.out.println("You need to use " + quarters + " quarters and " + cents + " cents.");
+System.out.println("Use " + quarters + " quarters and " + cents + " cents.");
 }
 }
