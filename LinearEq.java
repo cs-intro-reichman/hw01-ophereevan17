@@ -9,7 +9,7 @@ double c = Double.parseDouble(args[2]);
 
 //print equation
 
-System.out.println(a + " *" + " x " + b + " = " + c);
+System.out.println(a + " * x " + b + " = " + c);
 
 //compute x and print its value
 
